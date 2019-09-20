@@ -1,0 +1,4 @@
+Straight from Welcome to the Game II by Reflect Studios! 
+Crack wifi passwords without worrying about the Noir, Lucas, or any of the other threats who try to kill you during the game. 
+
+This program is purely simulational and does not actually scan/ crack nearby wifi networks (that's kind of illegal). Some wifi network names used in the program are taken from the game itself so they are the property of the developers (I don't know if they're actually copyrighted or anything like that but I'm saying this just to avoid the risk). This program uses mainly random choices/generators for finding networks and their information. I am not an expert at Python so there may be easier ways that I could have used to code this but I got it to work so I don't care.
